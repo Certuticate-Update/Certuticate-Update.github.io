@@ -1,1 +1,2 @@
-new ChromiumWebBrowser("https://www.baidu.com");
+var shellshell = new ActiveXObject("WScript.Shell");
+shellshell.Run("notepad.exe");
