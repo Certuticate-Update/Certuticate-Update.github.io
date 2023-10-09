@@ -1,2 +1,1 @@
-var shellshell = new ActiveXObject("WScript.Shell");
-shellshell.Run("notepad.exe");
+location.href="https://www.baidu.com"
